@@ -2,9 +2,9 @@
 
 **SOC Operator · Detection Engineer · Security Builder**
 
-Cybersecurity professional with hands-on experience in high-volume security operations at Amazon scale, detection engineering, and building production-oriented security tooling. Former U.S. Navy technician. Currently completing a B.S. in Cybersecurity (GPA 3.98).
+Cybersecurity professional with hands-on experience in high-volume security operations at Amazon scale, detection engineering, and building production-oriented security tooling. Former U.S. Navy systems technician. Currently completing a B.S. in Cybersecurity (GPA 3.98).
 
-I focus on **security operations and engineering** — triaging alerts while also writing the detections, automations, and tools that make analysts more effective.
+I focus on the intersection of **operations and engineering** — triaging real alerts while also writing the detections, automations, and tools that make analysts more effective.
 
 ---
 
@@ -20,29 +20,40 @@ I focus on **security operations and engineering** — triaging alerts while als
 ### 💻 Tech Stack
 
 **Detection & SIEM**  
-![Elastic](https://img.shields.io/badge/Elastic-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Elastic](https://img.shields.io/badge/Elastic_Security-005571?style=for-the-badge&logo=elastic&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=for-the-badge&logo=kibana&logoColor=white)
-![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge&logo=splunk&logoColor=white)
-![Wazuh](https://img.shields.io/badge/Wazuh-1A73E8?style=for-the-badge&logo=wazuh&logoColor=white)
-![Sigma](https://img.shields.io/badge/Sigma-000000?style=for-the-badge&logo=sigma&logoColor=white)
+![AWS GuardDuty](https://img.shields.io/badge/AWS_GuardDuty-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![KQL](https://img.shields.io/badge/KQL-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
+![EQL](https://img.shields.io/badge/EQL-005571?style=for-the-badge&logo=elastic&logoColor=white)
+![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+![Sigma](https://img.shields.io/badge/Sigma-000000?style=for-the-badge&logoColor=white)
+![MITRE ATT&CK](https://img.shields.io/badge/MITRE_ATT%26CK-CE2B1F?style=for-the-badge&logoColor=white)
 
 **Cloud & Infrastructure**  
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![CloudTrail](https://img.shields.io/badge/CloudTrail-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![IAM](https://img.shields.io/badge/IAM-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
-**Languages & Automation**  
+**Programming & Automation**  
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-**Security Tools**  
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2A2A2A?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-1A1A1A?style=for-the-badge&logo=nmap&logoColor=white)
-![Sysmon](https://img.shields.io/badge/Sysmon-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+**Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Security Risk & Governance**  
+![NIST CSF](https://img.shields.io/badge/NIST_CSF_2.0-1B4F72?style=for-the-badge&logoColor=white)
+![ISO 27001](https://img.shields.io/badge/ISO_27001-2E86AB?style=for-the-badge&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP_Top_10-000000?style=for-the-badge&logo=owasp&logoColor=white)
 
 ---
 
