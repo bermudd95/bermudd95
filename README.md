@@ -4,7 +4,7 @@
 
 Cybersecurity professional with hands-on experience in high-volume security operations at Amazon scale, detection engineering, and building production-oriented security tooling. Former U.S. Navy technician. Currently completing a B.S. in Cybersecurity (GPA 3.98).
 
-I focus on the intersection of **operations and engineering** — triaging real alerts while also writing the detections, automations, and tools that make analysts more effective.
+I focus on **security operations and engineering** — triaging alerts while also writing the detections, automations, and tools that make analysts more effective.
 
 ---
 
